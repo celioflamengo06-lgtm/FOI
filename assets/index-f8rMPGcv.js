@@ -22929,7 +22929,7 @@ Assim que realizar o pagamento das taxas no valor de R$ 37,20, clique no botão 
                     className: "flex justify-between py-1 border-b border-gray-200",
                     children: [l.jsx("span", {
                       className: "text-gray-700",
-                      children: "TAXA DE EXPEDIÇÁƒO DE DOCUMENTO (TED)"
+                      children: "TAXA DE EXPEDIÇÃO DE DOCUMENTO (TED)"
                     }), l.jsx("span", {
                       className: "font-semibold",
                       children: "11,95"
@@ -22947,7 +22947,7 @@ Assim que realizar o pagamento das taxas no valor de R$ 37,20, clique no botão 
                     className: "flex justify-between py-1 border-b border-gray-200",
                     children: [l.jsx("span", {
                       className: "text-gray-700",
-                      children: "TAXA DE PROCESSAMENTO ELETRÁ”NICO (TPE)"
+                      children: "TAXA DE PROCESSAMENTO ELETRÔNICO (TPE)"
                     }), l.jsx("span", {
                       className: "font-semibold",
                       children: "11,85"
@@ -24650,7 +24650,7 @@ function uT() {
               className: "flex justify-between items-center py-4 border-b border-white/20",
               children: [l.jsx("span", {
                 className: "font-semibold",
-                children: "ACESSO Á€ INFORMAÇÁƒO"
+                children: "ACESSO A INFORMAÇÃO"
               }), l.jsx(Zr, {
                 className: "text-white/70"
               })]
